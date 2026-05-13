@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    color: red;
+}
+
+.salam{
+    color: blue;
+}
+.lorem{
+    color: rgb(255, 0, 221);
+}
+.honda1{
+    width: 100px;
+}
+.honda2{
+    width: 200px;
+}
+.honda3{
+    width:500px;
+}

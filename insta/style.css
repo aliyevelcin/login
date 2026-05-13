@@ -1,0 +1,64 @@
+
+.input{
+    width: 400px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.btn1{
+  width: 435px;
+  padding: 15px;   
+  background-color:blue;
+  border-radius:15px; 
+  color:white;
+  border: none; 
+  cursor: no-drop;
+}
+
+.forgot{
+    border:none;
+    background-color:transparent;
+    width: 400px;
+    cursor: pointer;
+}
+.login{
+    
+    border:none;
+    border:1px solid rgb(143, 143, 232);
+    background-color:transparent;
+    width: 430px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+
+.create{
+    
+    border:none;
+    border:1px solid blue;
+    background-color:transparent;
+    width: 430px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+.meta{
+    border:none;
+    background-color:transparent;
+    width: 400px;
+    cursor: pointer;
+}
+
+.df {
+    display: flex;
+}
+
+.left{
+    height: 1000px;
+    padding-left: 150px;
+    border-left:1px solid  black
+}  
